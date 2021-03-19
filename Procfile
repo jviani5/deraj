@@ -6,4 +6,8 @@ conda install Cython --force
 pip install pystan
 conda install pystan -c conda-forge
 conda install -c conda-forge fbprophet
+pip install pandas
+pip install streamlit
+pip install yfinance
+pip install plotly
 streamlit run stockall.py
